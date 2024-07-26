@@ -1,4 +1,4 @@
-alert('Boas vindas ao jogo do número secreto');
+alert('seja bem vindo a minha pagina');
 let numeroSecreto = 53;
 console.log('numeroSecreto')
 let chute = prompt('Escolha um número entre 1 e 100');
